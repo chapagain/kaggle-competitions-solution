@@ -4,7 +4,9 @@ Solutions and Guides to various [Kaggle](https://www.kaggle.com/) Machine Learni
 
 Guides and solutions are present in [Jupyter Notebook](http://jupyter.org/) format.
 
-Dataset are taken from Kaggle Competitions.
+Programming Language: Python
+
+Datasets are taken from Kaggle Competitions.
 
 ## Competitions
 
