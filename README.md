@@ -12,6 +12,7 @@ Datasets are taken from Kaggle Competitions.
 
 1. [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 2. [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+3. [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer)
 
 ---
 
