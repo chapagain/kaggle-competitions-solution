@@ -10,7 +10,7 @@ Datasets are taken from Kaggle Competitions.
 
 ## Competitions
 
-1. [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
+#### 1. [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 
 Trying out the following classifiers: 
 
@@ -24,7 +24,7 @@ Trying out the following classifiers:
 - Naive Bayes
 - Stochastic Gradient Decent (SGD)
 
-2. [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+#### 2. [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
 Trying out the following regression models:
 
@@ -35,7 +35,7 @@ Trying out the following regression models:
 - XGBoost
 - LightGBM 
 
-3. [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer)
+#### 3. [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer)
 
 Using Deep Learning with Keras - the Neural Network Library written in Python. 
 
@@ -44,7 +44,7 @@ The following Neural Network models are used for this problem:
 - Multi-layer Perceptron Model (MLP)
 - Convolutional Neural Network (CNN) Model
 
-4. [Sentiment Analysis on Movie Reviews](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews)
+#### 4. [Sentiment Analysis on Movie Reviews](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews)
 
 - Using Logistic Regression Model
 - Using Multiple Models: Logistic Regression, SGD, Naive Bayes, OneVsOne Models
